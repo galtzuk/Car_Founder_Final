@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610940095320",
+    "project_id": "carfounderfinal",
+    "storage_bucket": "carfounderfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610940095320:android:f7398fa83effd68694f32d",
+        "android_client_info": {
+          "package_name": "com.example.car_founder_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8GmJyggeT5_DCP32RlS-jlLFQzGj1zq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
